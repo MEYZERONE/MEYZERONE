@@ -1269,7 +1269,7 @@
                     className: tp().left,
                     children: [(0, B.jsx)(td, {className: tp().squareLogo}), (0, B.jsx)("span", {
                         className: tp().desc,
-                        children: "Use XTransfer anytime, anywhere"
+                        children: "Use MEYZERONE anytime, anywhere"
                     })]
                 }), (0, B.jsx)(ei.Z, {
                     className: tp().guideBtn,
