@@ -785,6 +785,40 @@
                             "data-sensors-click": "true",
                             children: "Cancel"
                         })
+                    // }), (0, B.jsx)("div", {
+                    //     className: eM().main,
+                    //     children: (0, B.jsx)("ul", {
+                    //         className: eM().regions,
+                    //         children: [{text: "Global  (English)", link: "https://".concat(a), Icon: eN}, {
+                    //             text: "中国",
+                    //             link: "https://".concat(i, "?lang=zh"),
+                    //             Icon: eI
+                    //         }, {text: "中国香港", link: "https://".concat(a, "/zh-HK"), Icon: eK}, {
+                    //             text: "日本",
+                    //             link: "https://".concat(i, "?lang=ja"),
+                    //             Icon: eB
+                    //         }, {text: "United States", link: "https://".concat(o), Icon: eS}, {
+                    //             text: "United Kingdom",
+                    //             link: "https://".concat(c),
+                    //             Icon: eT
+                    //         }].map(function (e, t) {
+                    //             var n = e.text, r = e.link, i = e.Icon;
+                    //             return (0, B.jsx)("li", {
+                    //                 className: eM().regionItemWrapper,
+                    //                 onClick: function () {
+                    //                     l(), window.location.href = r
+                    //                 },
+                    //                 "data-sensors-click": "true",
+                    //                 children: (0, B.jsxs)("div", {
+                    //                     className: eM().regionContent,
+                    //                     children: [(0, B.jsx)("span", {
+                    //                         className: eM().iconWrapper,
+                    //                         children: (0, B.jsx)(i, {className: eM().icon})
+                    //                     }), (0, B.jsx)("span", {children: n})]
+                    //                 })
+                    //             }, t)
+                    //         })
+                    //     })
                     }), (0, B.jsx)("div", {
                         className: eM().footer,
                         children: (0, B.jsx)("div", {className: eM().line})
