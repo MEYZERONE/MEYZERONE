@@ -84,10 +84,12 @@
                         children: [(0, B.jsx)("div", {className: J().divider}), (0, B.jsx)("div", {
                             className: J().copyright,
                             children: l
-                        }), (0, B.jsx)("div", {
-                            className: J().annotation,
-                            // children: '"China\'s No.1 B2B Cross-Border Trade Payment Platform" is based on the "Research report on financial service demand of China\'s SME foreign trade enterprises in 2023" released by iiMedia Research in July 2023'
-                        })]
+                        })
+                        // , (0, B.jsx)("div", {
+                        //     className: J().annotation,
+                        //     children: '"China\'s No.1 B2B Cross-Border Trade Payment Platform" is based on the "Research report on financial service demand of China\'s SME foreign trade enterprises in 2023" released by iiMedia Research in July 2023'
+                        // })
+                    ]
                     })]
                 })
             }, $ = n(11163), ee = n(43070), et = n(69998), en = n(17469), el = n(30054), er = n(4730), ei = n(72775),
