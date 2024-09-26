@@ -1,0 +1,2 @@
+self.__SSG_MANIFEST = new Set(["\u002F404", "\u002Fhelp-center", "\u002Fhelp-center-h5", "\u002Fhelp-center-h5\u002Fanswer\u002F[id]", "\u002Fhelp-center-h5\u002Fmenu\u002F[id]", "\u002Fhelp-center-h5\u002FsearchResult", "\u002Fhelp-center-h5\u002FsubMenu\u002F[id]", "\u002Fhelp-center\u002Fmenu\u002F[id]", "\u002Fhelp-center\u002Fquestion\u002F[id]", "\u002Fhelp-center\u002Fsearch", "\u002Freferral"]);
+self.__SSG_MANIFEST_CB && self.__SSG_MANIFEST_CB()
