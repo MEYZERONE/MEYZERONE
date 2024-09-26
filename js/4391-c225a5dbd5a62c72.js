@@ -862,7 +862,7 @@
                 }, {
                     customPicture: "https://static.xtransfer.com/boss/static/picture04_6593da161d25c03e.png",
                     avatar: "https://static.xtransfer.com/boss/static/avatar04_64c85d7a85fa7148.png",
-                    thinking: '"XTransfer is safe and compliant. Money arrives in seconds 24/7, which has sped up my trade process. Buyers are more willing to work with me because of that!"',
+                    thinking: '"MEYZERONE is safe and compliant. Money arrives in seconds 24/7, which has sped up my trade process. Buyers are more willing to work with me because of that!"',
                     name: "Ms. Nan QIAO",
                     position: "General Manager, Yiwu Beicheng Trading Co., Ltd."
                 }, {
