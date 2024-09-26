@@ -86,7 +86,7 @@
                             children: l
                         }), (0, B.jsx)("div", {
                             className: J().annotation,
-                            children: '"China\'s No.1 B2B Cross-Border Trade Payment Platform" is based on the "Research report on financial service demand of China\'s SME foreign trade enterprises in 2023" released by iiMedia Research in July 2023'
+                            // children: '"China\'s No.1 B2B Cross-Border Trade Payment Platform" is based on the "Research report on financial service demand of China\'s SME foreign trade enterprises in 2023" released by iiMedia Research in July 2023'
                         })]
                     })]
                 })
