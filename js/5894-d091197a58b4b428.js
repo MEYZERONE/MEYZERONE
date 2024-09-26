@@ -1498,7 +1498,7 @@
             logo: "index_logo__0utZh",
             menusWrapper: "index_menusWrapper__l2A_C",
             menus: "index_menus__aNstu",
-            language: "index_language__tMaFN",
+            // language: "index_language__tMaFN",
             contactUSButton: "index_contactUSButton__mt9Tl"
         }
     }, 49454: function (e) {
